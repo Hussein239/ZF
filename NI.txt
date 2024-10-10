@@ -65,6 +65,52 @@ return {
     ["Leopard"] = "فهد",
     ["Kitsune"] = "كيتسوني",
 
+    -- الفواكه الاسامي الكامله 
+    ["فاكهة بلوكس شائعة"] = "Common Blox Fruit",
+    ["فاكهة بلوكس غير شائعة"] = "Uncommon Blox Fruit",
+    ["فاكهة بلوكس نادرة"] = "Rare Blox Fruit",
+    ["فاكهة بلوكس أسطورية"] = "Legendary Blox Fruit",
+    ["فاكهة بلوكس أسطورية"] = "Mythical Blox Fruit",
+    ["فاكهة الصاروخ"] = "Rocket Fruit",
+    ["فاكهة الدوران"] = "Spin Fruit",
+    ["فاكهة التقطيع"] = "Chop Fruit",
+    ["فاكهة الربيع"] = "Spring Fruit",
+    ["فاكهة القنبلة"] = "Bomb Fruit",
+    ["فاكهة الدخان"] = "Smoke Fruit",
+    ["فاكهة الشوك"] = "Spike Fruit",
+    ["فاكهة اللهب"] = "Flame Fruit",
+    ["فاكهة الصقر"] = "Falcon Fruit",
+    ["فاكهة الثلج"] = "Ice Fruit",
+    ["فاكهة الرمل"] = "Sand Fruit",
+    ["فاكهة الظلام"] = "Dark Fruit",
+    ["فاكهة الماس"] = "Diamond Fruit",
+    ["فاكهة الضوء"] = "Light Fruit",
+    ["فاكهة المطاط"] = "Rubber Fruit",
+    ["فاكهة الحاجز"] = "Barrier Fruit",
+    ["فاكهة الشبح"] = "Ghost Fruit",
+    ["فاكهة الحمم"] = "Magma Fruit",
+    ["فاكهة الزلزال"] = "Quake Fruit",
+    ["فاكهة البوذا"] = "Buddha Fruit",
+    ["فاكهة الحب"] = "Love Fruit",
+    ["فاكهة العنكبوت"] = "Spider Fruit",
+    ["فاكهة الصوت"] = "Sound Fruit",
+    ["فاكهة الفينيق"] = "Phoenix Fruit",
+    ["فاكهة البوابة"] = "Portal Fruit",
+    ["فاكهة الرعد"] = "Rumble Fruit",
+    ["فاكهة الألم"] = "Pain Fruit",
+    ["فاكهة العاصفة الثلجية"] = "Blizzard Fruit",
+    ["فاكهة الجاذبية"] = "Gravity Fruit",
+    ["فاكهة الماموث"] = "Mammoth Fruit",
+    ["فاكهة الديناصور"] = "T-Rex Fruit",
+    ["فاكهة العجين"] = "Dough Fruit",
+    ["فاكهة الظل"] = "Shadow Fruit",
+    ["فاكهة السم"] = "Venom Fruit",
+    ["فاكهة السيطرة"] = "Control Fruit",
+    ["فاكهة الروح"] = "Spirit Fruit",
+    ["فاكهة التنين"] = "Dragon Fruit",
+    ["فاكهة الفهد"] = "Leopard Fruit",
+    ["فاكهة الكيتسوني"] = "Kitsune Fruit",
+
     -- الأسلحة
     ["Tushita"] = "توشيتا",
     ["True Triple Katana"] = "كاتانا ثلاثية حقيقية",
@@ -154,4 +200,17 @@ return {
     ["Onigashima Outfit"] = "زي أونيغاشيما",
     ["Gomu Gomu Outfit"] = "زي غومو غومو",
 
+    -- الاشياء المهمه مثل لازرار
+    ["STATS"] = "الإحصائيات"
+    ["Melee"] = "قتال قريب"
+    ["Defense"] = "الدفاع"
+    ["Sword"] = "سيف"
+    ["Blox Fruit"] = "فاكهة بلوكس"
+    ["Servers"] = "الخوادم"
+    ["Dash"] = "انزلاق"
+    ["Walk"] = "المشي"
+    ["Aura"] = "الهالة"
+    ["Stats"] = "الإحصائيات"
+    ["Shop"] = "المتجر"
+    ["Items"] = "العناصر"
 }
